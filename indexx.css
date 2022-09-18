@@ -1,0 +1,38 @@
+
+
+p {
+    color:black;
+}
+h1{
+    color:black;
+     font-size:30px;
+}
+.brand{
+    float: left;
+
+}
+#logo{
+
+}
+h1{}
+
+.brand .logo h1{
+    font-size: 10px;
+}
+
+nav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
+nav ul{
+    display: flex;
+    list-style-type: none;
+}
+
+nav ul li {
+    margin:0 1rem;
+    font-weight: 700;
+}
